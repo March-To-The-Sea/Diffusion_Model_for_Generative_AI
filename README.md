@@ -1,1 +1,1 @@
-# Dune_Analytics_6
+# Diffusion Model for Generative AI
